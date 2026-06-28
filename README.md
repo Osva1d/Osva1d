@@ -18,7 +18,7 @@ Print production automation — building tools that remove repetitive work from 
 
 ## 📦 Projects
 
-**[extendscript-automation](https://codeberg.org/Osva1d/extendscript-automation)** — Adobe Illustrator toolkit for prepress: registration-mark generator for Zünd (ECHO) and Summa (OPOS) cutters, banner grommet marks, and batch PDF relink & export into imposition templates. Localised CS/EN UI, named presets, Node-based test suite. GPL-3.0.
+**[extendscript-automation](https://codeberg.org/Osva1d/extendscript-automation)** — Adobe Illustrator toolkit for prepress: registration-mark generator for Zünd (ECHO) and Summa (OPOS) cutters, banner grommet marks, and batch PDF relink & export into imposition templates. Localised CS/EN UI, named presets, Node-based test suite. MIT.
 
 **[applescript-automation](https://codeberg.org/Osva1d/applescript-automation)** — Print-studio workflow scripts for macOS: project folder creation from order data, Adobe Bridge header generation, and network-aware Finder setup at login. Runs via Shortcuts.app. MIT.
 
